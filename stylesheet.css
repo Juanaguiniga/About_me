@@ -1,0 +1,68 @@
+
+  .headerstyle {
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 100px
+  }
+  .headerstyleindex {
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 59px;
+  }
+
+header {
+    background: rgb(102, 4, 4);
+}
+  body {
+      margin: 0%;
+    
+  }
+  html {
+      margin: 0%;
+    
+  }
+  .home {
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+  }
+
+  .linkbackground {
+      text-align: center;
+      color: white;
+      background: radial-gradient(rgb(238, 39, 39),rgb(187, 8, 8));
+      padding: 15px 20px;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      border: 2px solid #000000;
+      border-radius: 100px;
+      margin-bottom: 154.3px;
+      
+    }
+
+    .linkbackground:hover {
+        text-decoration: none;
+        background: #440606;
+        box-shadow: inset black;
+    }
+
+    a {
+        text-decoration: none;
+    }
+        
+     footer {
+      padding: 20px;
+      color: white;
+      background: rgb(102, 4, 4);
+  }
+  
+     .mygoal {
+         margin-bottom: 32.5px;
+     }
+     .contact {
+         margin-bottom: 20px;
+     }
